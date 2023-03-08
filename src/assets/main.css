@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+input {
+  outline: none;
+}
+
+input:first-child{
+  border: 1px solid gray;
+}
