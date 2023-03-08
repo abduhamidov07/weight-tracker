@@ -1,5 +1,5 @@
 <template enter-class="container">
-  <main class="row row-cols-md-2 d-flex justify-content-center mx-5">
+  <main class="row row-cols-md-2 d-flex justify-content-center mx-3">
     <div class="card border-0 p-0">
       <h1 class="text-center my-3">Weight Tracker</h1>
 
